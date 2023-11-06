@@ -2,6 +2,7 @@ body{
     background-color: #f0f8ff;   
 }
 h1 {
+  background-color:#6495ed ;
     color: blue;
     text-align: center;
 }
@@ -12,6 +13,10 @@ h1 {
 .imgh200 {
    
    height: 200px;
+}
+.imgmet{
+  width: 300px;
+  height: 400px;
 }
 
   
