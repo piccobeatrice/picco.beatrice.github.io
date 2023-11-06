@@ -6,13 +6,13 @@ h1 {
     color: blue;
     text-align: center;
 }
-.imgw200 {
-   width: 200px;
+.imgw300 {
+   width: 400px;
   
 }
-.imgh200 {
+.imgh400 {
    
-   height: 200px;
+   height: 400px;
 }
 .imgmet{
   width: 300px;
