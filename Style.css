@@ -15,6 +15,7 @@ h1 {
 }
 
 .bgbody{
-    background-image: URL(Img_reti/empire.jpg) ;
+    background-image: url(Img_reti/empire.jpg) ;
+    background-attachment: fixed;
 }
   
