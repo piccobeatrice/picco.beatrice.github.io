@@ -17,5 +17,6 @@ h1 {
 .bgbody{
     background-image: url(nyc.jpg) ;
     background-attachment: fixed;
+    background-repeat: no-repeat;
 }
   
