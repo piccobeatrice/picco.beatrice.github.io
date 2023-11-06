@@ -10,15 +10,11 @@ h1 {
    width: 400px;
   
 }
-.imgh400 {
-   
-   height: 400px;
+.imgh500 {
+   width: 500px;
 }
-.imgmet{
-  width: 300px;
-  height: 400px;
-}
+
 .bgbody{
-    background-image: url(https://hips.hearstapps.com/hmg-prod/images/new-york-in-7-giorni-1559809453.jpg) ;
+    background-image: URL(https://hips.hearstapps.com/hmg-prod/images/new-york-in-7-giorni-1559809453.jpg) ;
 }
   
