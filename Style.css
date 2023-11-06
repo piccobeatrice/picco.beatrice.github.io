@@ -18,5 +18,7 @@ h1 {
   width: 300px;
   height: 400px;
 }
-
+.bgbody{
+    background-image: src="https://hips.hearstapps.com/hmg-prod/images/new-york-in-7-giorni-1559809453.jpg";
+}
   
